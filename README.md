@@ -4,7 +4,7 @@
 
 Стек: React, TypeScript.
 
-Использоватлось следующее API: https://jsonplaceholder.typicode.com
+Использовалось следующее API: https://jsonplaceholder.typicode.com
 
 ## Реализация 
 
