@@ -1,0 +1,16 @@
+body,h1,h2,h3,p {
+  margin: 0;
+}
+
+html {
+  font-family: "Hero";
+  background-color: rgb(214, 241, 253);
+}
+
+@font-face {
+  font-family: "Hero";  
+  src: url("./Fonts/Hero.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal;
+  }
+

@@ -1,0 +1,12 @@
+.selectedPost {
+  margin: 20px;
+}
+
+.comment {
+  margin-bottom: 20px;
+}
+
+.btnBack{
+margin-top: 40px;
+cursor: pointer;
+}
