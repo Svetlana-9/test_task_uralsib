@@ -8,7 +8,7 @@
 
 ## Реализация 
 
-![Посты](https://github.com/user-attachments/assets/8be918f1-f108-4dda-ae2d-17b8783874aa)
+![Посты](https://github.com/user-attachments/assets/e05a5d16-58da-4736-a489-1e9d5d092efd)
 
 ## Запуск проекта
 
